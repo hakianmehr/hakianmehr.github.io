@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: AI/ML Scientist @ Amazon
+subtitle: AI/ML Scientist @ Amazon · Building and evaluating AI systems · PhD in Systems Science, Binghamton University
 
 profile:
   align: right
@@ -25,8 +25,8 @@ I build AI applications for the security and healthcare industries, with a resea
 
 At **Amazon**, I design gen-AI-driven automation for third-party security assessments, implemented as a multi-agent pipeline that orchestrates evaluation and validation across the assessment lifecycle.
 
-Prior to Amazon, I worked at **Optum** and the **University of Florida**, developing machine learning and simulation methods — including optimized decision-tree algorithms for lower-sample-size efficacy and effectiveness studies in drug development.
+Prior to Amazon, I worked at Optum and the University of Florida, developing machine learning and simulation methods — including optimized decision-tree algorithms for lower-sample-size efficacy and effectiveness studies in drug development.
 
-My academic training is in systems science. I earned my Ph.D. from **Binghamton University** and completed postdoctoral research at the **University of Florida**, focusing on system dynamics and applied machine learning. That foundation continues to inform my approach to experimentation, model validation, and scientific rigor in contemporary AI system design.
+My academic training is in systems science. I earned my Ph.D. from Binghamton University and completed postdoctoral research at the University of Florida, focusing on system dynamics and applied machine learning. That foundation continues to inform my approach to experimentation, model validation, and scientific rigor in contemporary AI system design.
 
 See [publications](/publications/) for my research.
